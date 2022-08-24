@@ -1,0 +1,47 @@
+.borderDetail {
+  margin: 10px 110px;
+}
+.borderDetail img {
+  width: 100%;
+  padding: 10px 0px;
+}
+.borderDetail span {
+  padding: 5px;
+}
+.borderDetail button {
+  background: #065ed9;
+  border-radius: 12px;
+  color: white;
+  height: 3rem;
+  border: none;
+}
+.borderDetailFooter1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+.borderDetailFooter2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background: #b6e6f1;
+  text-align: center;
+}
+#p1 {
+  font-size: 13px;
+  color: gray;
+}
+#p2 {
+  color: #065ed9;
+}
+#p3 {
+  color: green;
+}
+#h1 {
+  margin-top: 10px;
+}
+#p4 {
+  font-size: 30px;
+}
+#p4 span {
+  font-weight: bold;
+}

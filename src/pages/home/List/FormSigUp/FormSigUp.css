@@ -1,0 +1,25 @@
+.borderFormSig {
+  background-color: #003680;
+  padding: 20px;
+  color: white;
+}
+.borderSignUp {
+  margin: 10px 110px;
+}
+.center {
+  text-align: center;
+}
+.center input {
+  border: none;
+  height: 3rem;
+  width: 40%;
+  border-radius: 12px;
+}
+.center button {
+  margin-left: 5px;
+  border: none;
+  height: 3rem;
+  color: white;
+  background: rgb(9, 77, 204);
+  border-radius: 12px;
+}

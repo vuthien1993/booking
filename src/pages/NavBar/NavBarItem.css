@@ -1,0 +1,57 @@
+.border {
+  border: 1px solid #003680;
+  background-color: #003680;
+  color: white;
+  margin-bottom: -1px;
+}
+.p {
+  font-size: 20px;
+}
+.marginLeft {
+  margin-top: 10px;
+  margin-left: 110px;
+  margin-right: 110px;
+}
+.col-md-3 button {
+  border: none;
+  color: #003680;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 5px;
+  font: inherit;
+  background: white;
+  box-shadow: 0 0 4px rgba(203, 179, 179, 0.26);
+}
+.borderNavBar {
+  border: 1px solid white;
+  width: 10px;
+  height: auto;
+  padding: 2rem 5rem;
+}
+
+.fll {
+  float: left;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.border::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.border i {
+  padding: 5px;
+}
+.isvalid {
+  margin-top: -10px;
+  padding: 0.5rem 1rem;
+  border: 1px solid white;
+  border-radius: 12px;
+}
+@media (max-width: 768px) {
+  .fll {
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+}

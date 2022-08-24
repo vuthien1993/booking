@@ -1,0 +1,50 @@
+.borderCity {
+  margin: 20px 110px;
+  position: relative;
+}
+.borderCity img {
+  border-radius: 20px;
+  max-width: 100%;
+  padding: 10px;
+}
+.content {
+  position: absolute;
+  left: 4%;
+  top: 60%;
+  color: white;
+}
+.content1 {
+  position: absolute;
+  left: 32%;
+  top: 60%;
+  color: white;
+}
+.content2 {
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  color: white;
+}
+.margin {
+  margin-right: 160px;
+}
+@media (max-width: 768px) {
+  .content {
+    position: absolute;
+    left: 40px;
+    top: 165px;
+    color: white;
+  }
+  .content1 {
+    position: absolute;
+    left: 310px;
+    top: 165px;
+    color: white;
+  }
+  .content2 {
+    position: absolute;
+    left: 580px;
+    top: 165px;
+    color: white;
+  }
+}

@@ -1,0 +1,112 @@
+.borderSearch {
+  margin: 30px 110px;
+  font-size: 13px;
+}
+.borderSearch1 {
+  background: #f7cb09;
+  margin-bottom: 430px;
+  border-radius: 12px;
+}
+.borderSearch img {
+  height: 300px;
+  width: 100%;
+}
+.marginT {
+  margin-top: 20px;
+}
+.margint {
+  margin-top: 20px;
+}
+.marginR {
+  margin-right: 15px;
+}
+.input1 {
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 30px;
+  height: 3rem;
+}
+.borderOption {
+  margin-left: 10px;
+}
+.input2 {
+  width: 20%;
+  height: 2rem;
+  margin-left: 30px;
+}
+.input3 {
+  width: 20%;
+  height: 2rem;
+  margin-left: 28px;
+}
+.input4 {
+  width: 20%;
+  height: 2rem;
+  margin-left: 114px;
+}
+.input5 {
+  width: 20%;
+  height: 2rem;
+  margin-left: 95px;
+}
+.input6 {
+  width: 20%;
+  height: 2rem;
+  margin-left: 121px;
+}
+.indam {
+  font-weight: bold;
+}
+#buttonS button {
+  width: 100%;
+  margin-top: 30px;
+  height: 3rem;
+  background: rgb(1, 58, 202);
+  border: none;
+  color: white;
+}
+.borderSearch2 {
+  margin: 0px 10px 10px;
+  border: 1px solid gray;
+  border-radius: 12px;
+}
+.marginR2 {
+  margin-right: 120px;
+}
+.margint h3 {
+  color: blue;
+  font-weight: bold;
+}
+.borderTag {
+  background: green;
+  color: white;
+  border-radius: 6px;
+  margin-right: 60px;
+  padding: 10px;
+  text-align: center;
+}
+.textcenter {
+  text-align: center;
+}
+.changeColor {
+  color: green;
+}
+.borderRate {
+  background: #003680;
+  color: white;
+  padding: 8px;
+  margin-left: 36px;
+}
+.borderPrice {
+  margin-top: 160px;
+}
+.borderPrice button {
+  height: 3rem;
+  background: blue;
+  color: white;
+  border-radius: 6px;
+}
+#changeSize {
+  font-size: 20px;
+  font-weight: bold;
+}

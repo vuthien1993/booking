@@ -1,0 +1,74 @@
+.borderHeaders {
+  background: #003680;
+  border: 1px solid #003680;
+  margin: -60px 1px 0px 1px;
+}
+.borderHeader {
+  color: white;
+  margin-top: 100px;
+  margin-left: 110px;
+  margin-right: 80px;
+}
+.borderForm {
+  margin-top: 60px;
+  border: 2px solid rgb(195, 254, 4);
+  background: white;
+  margin-bottom: -20px;
+  padding: 10px;
+  border-radius: 6px;
+}
+.borderHeader button {
+  border-color: rgb(35, 99, 218);
+  color: #fafcfe;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 5px;
+  font: inherit;
+  background: rgb(35, 99, 218);
+}
+
+.borderHeader input {
+  margin-top: 2px;
+  border: none;
+  width: 25%;
+}
+.borderForm input {
+  outline: none;
+  color: gray;
+  width: 80%;
+}
+
+.borderFormbutton1 {
+  margin-left: -20px;
+}
+.borderForm span {
+  color: gray;
+  margin-left: 5px;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.calendarWrap {
+  display: inline-block;
+  position: relative;
+}
+
+.calendarElement {
+  position: absolute;
+  left: 48%;
+  transform: translateX(-50%);
+  top: 140%;
+  border: 1px solid #ccc;
+  z-index: 999;
+}
+.borderCalendar {
+  border-radius: 10px;
+}
+.borderFormContent1 {
+  top: 60px;
+}
+.calenderButton button {
+  background: white;
+  color: grey;
+}
